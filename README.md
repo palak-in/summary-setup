@@ -17,3 +17,8 @@
   # Download files
 - Download shell-lesson-data.zip and move the file to your Desktop.
 - Unzip/extract the file. Let your instructor know if you need help with this step. You should end up with a new folder called shell-lesson-data on your Desktop.
+# Introducing the Shell
+## Background
+- Humans and computers commonly interact in many different ways, such as through a keyboard and mouse, touch screen interfaces, or using speech recognition systems. The most widely used way to interact with personal computers is called a graphical user interface (GUI). With a GUI, we give instructions by clicking a mouse and using menu-driven interactions.
+- GUIs are easy to use but slow and error-prone for large, repetitive tasks. The Unix shell, as a command-line interface and scripting language, makes these tasks fast and automatic. For example, copying one line from thousands of files can be done in seconds with the shell instead of hours with a GUI.
+- ![Alt text] (
